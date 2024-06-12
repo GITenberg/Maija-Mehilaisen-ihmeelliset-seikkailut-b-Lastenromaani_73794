@@ -1,0 +1,36 @@
+_repo: Maija-Mehilaisen-ihmeelliset-seikkailut-b-Lastenromaani_73794
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Salovaara, Hannes
+    birthdate: 1886
+    deathdate: 1935
+    gutenberg_agent_id: '49193'
+    url: http://www.gutenberg.org/2009/agents/49193
+    wikipedia: https://fi.wikipedia.org/wiki/Hannes_Salovaara
+creator:
+  author:
+    agent_name: Bonsels, Waldemar
+    birthdate: 1880
+    deathdate: 1952
+    gutenberg_agent_id: '9680'
+    url: http://www.gutenberg.org/2009/agents/9680
+    wikipedia: https://de.wikipedia.org/wiki/Waldemar_Bonsels
+description: ''
+gutenberg_issued: '2024-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73794'
+language: fi
+pgterms:marc905: 20210303075450bonsels
+pgterms:marc906: '1919'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Maija-Mehiläisen ihmeelliset seikkailut : $b Lastenromaani'
+url: http://www.gutenberg.org/ebooks/73794
